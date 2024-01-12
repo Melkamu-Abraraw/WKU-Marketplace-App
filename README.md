@@ -32,4 +32,4 @@ Prerequisites
 
 - git clone <repository-url>
 - npm install
-- npm run dev
+- npm start
